@@ -11,7 +11,8 @@
         "custom.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
-        "mainss.ts"
+        "mainss.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
