@@ -5,18 +5,15 @@
         "device": "*"
     },
     "files": [
-        "main.ts",
         "README.md",
         "assets.json",
         "custom.ts",
         "tilemap.g.jres",
         "tilemap.g.ts",
         "mainss.ts",
-        "main.py"
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.12.29",
         "targetId": "arcade"
